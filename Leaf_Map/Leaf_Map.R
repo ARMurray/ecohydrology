@@ -32,11 +32,8 @@ sf <- st_as_sf(locs, coords = c("Lon", "Lat"),
 # Create Leaf Icon
 greenLeafIcon <- makeIcon(
   iconUrl = "http://leafletjs.com/examples/custom-icons/leaf-green.png",
-  iconWidth = 38, iconHeight = 95,
-  iconAnchorX = 22, iconAnchorY = 94,
-  shadowUrl = "http://leafletjs.com/examples/custom-icons/leaf-shadow.png",
-  shadowWidth = 50, shadowHeight = 64,
-  shadowAnchorX = 4, shadowAnchorY = 62
+  iconWidth = 10, iconHeight = 20,
+  iconAnchorX = 0, iconAnchorY = 180
 )
 
 map <- leaflet(data = sf) %>% addTiles() %>%
@@ -47,7 +44,7 @@ map <- leaflet(data = sf) %>% addTiles() %>%
     "<b><a href=",Leaf_URL,">Leaf Page</a></b>","<br>",
     "<b><a href=",Website,">Website</a></b>"
     ))
-
+map
 #search <- addSearchFeatures(map,~c(sf$Institution,sf$Last), options = searchFeaturesOptions())
 
 saveWidget(map, file=here("Leaf_Map/Leaf_Map.html"))
