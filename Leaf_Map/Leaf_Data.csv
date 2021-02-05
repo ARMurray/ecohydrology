@@ -3,7 +3,7 @@
 "2","2018-04-30","Sam","Zipper","Kansas Geological Survey","Lawrence, KS","United States",-95.261,38.949,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-sam-zipper","https://www.samzipper.com/"
 "3","2018-05-07","Stefan","Krause","University of Birmingham","Birmingham","United Kingdom",-1.93,52.45,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-stefan-krause","https://www.birmingham.ac.uk/staff/profiles/gees/krause-stefan.aspx"
 "4","2018-05-14","Bhavna","Arora","Lawrence Berkeley National Laboratory","Berkely, CA","United States",-122.249,37.876,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-bhavna-arora","https://eesa.lbl.gov/profiles/bhavna-arora/"
-"5","2018-05-21","Liz","Agee","Oak Ridge National Laboratory","Ann Arbor, MI","United States",-83.738,42.277,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-elizabeth-liz-agee","https://laagee.github.io/"
+"5","2018-05-21","Liz","Agee","Oak Ridge National Laboratory","Oak Ridge, TN","United States",-84.309,35.931,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-elizabeth-liz-agee","https://laagee.github.io/"
 "6","2018-05-28","Diego","Riveros-Iregui","University of North Carolina - Chapel Hill","Chapel Hill, NC","United States",-79.05,35.91,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-diego-riveros-iregui","https://diegori.web.unc.edu/"
 "7","2018-06-04","Jeremy","Littell","USGS","Fairbanks, AK","United States",-147.833,64.856,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-jeremy-littell","https://www.usgs.gov/staff-profiles/jeremy-littell?qt-staff_profile_science_products=0#qt-staff_profile_science_products"
 "8","2018-06-11","Beth","Boyer","Penn State University","State College, PA","United States",-77.86,40.797,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-elizabeth-boyer","https://sites.psu.edu/ewboyer/"
@@ -14,14 +14,14 @@
 "13","2018-07-16","Sylvain","Kuppel","University of Aberdeen","Aberdeen","United Kingdom",-2.101,57.164,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-sylvain-kuppel","https://www.researchgate.net/profile/Sylvain_Kuppel"
 "14","2018-07-23","Erkan","Istanbulluoglu","University of Washington","Seattle, WA","United States",-122.303,47.656,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-erkan-istanbulluoglu","https://freshwater.uw.edu/person/erkan-istanbulluoglu/"
 "15","2018-07-30","Salli","Dymond","University of Minnesota - Duluth","Duluth, MN","United States",-92.084,46.818,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-salli-dymond","http://www.dymondlab.com/"
-"16","2018-08-06","Mark","Johnson",NA,NA,NA,NA,NA,NA,NA
-"17","2018-08-13","Yannis","Dialynas",NA,NA,NA,NA,NA,NA,NA
-"18","2018-08-20","Naomi","Tague",NA,NA,NA,NA,NA,NA,NA
-"19","2018-08-27","Simone","Fatichi",NA,NA,NA,NA,NA,NA,NA
-"20","2018-09-03","Angelica Maria","Gomez",NA,NA,NA,NA,NA,NA,NA
-"21","2018-09-10","Tony","Parolari",NA,NA,NA,NA,NA,NA,NA
-"22","2018-09-17","Adrian","Harpold",NA,NA,NA,NA,NA,NA,NA
-"23","2018-09-24","Cynthia","Gerlein-Safdi",NA,NA,NA,NA,NA,NA,NA
+"16","2018-08-06","Mark","Johnson","University of British Columbia","Vancouver","Canada",-123.246,49.26,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-mark-johnson","https://ecohydro.ires.ubc.ca/"
+"17","2018-08-13","Yannis","Dialynas","University of Cyprus","Nicosia","Cyprus",33.378,35.159,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-yannis-dialynas","https://www.researchgate.net/profile/Yannis_Dialynas"
+"18","2018-08-20","Naomi","Tague","University of California - Santa Barbara","Santa Barbara, CA","United States",-119.849,34.413,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-naomi-tague","https://tagueteamlab.org/about-naomci/"
+"19","2018-08-27","Simone","Fatichi","National University of Singapore",NA,"Singapore",103.773,1.296,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-simone-fatichi","https://www.researchgate.net/profile/Simone_Fatichi"
+"20","2018-09-03","Angelica Maria","Gomez","University of North Carolina - Chapel Hill","Chapel Hill, NC","United States",-79.052,35.914,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-angelica-maria-gomez",NA
+"21","2018-09-10","Tony","Parolari","Marquette University","Milwaukee, WI","United States",-87.932,43.039,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-tony-parolari","http://www.aphydro.com/"
+"22","2018-09-17","Adrian","Harpold","University of Nevada - Reno","Reno, NV","United States",-119.816,39.545,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-adrian-harpold","https://naes.unr.edu/harpold/"
+"23","2018-09-24","Cynthia","Gerlein-Safdi","Lawrence Berkeley National Laboratory","Berekely, CA","United States",-122.251,37.877,"https://www.aguecohydrology.org/blog-adding-our-leaves/meet-a-leaf-cynthia-gerlein-safdi","https://sites.google.com/lbl.gov/cgerleinsafdi/"
 "24","2018-10-01","Steven","Loheide",NA,NA,NA,NA,NA,NA,NA
 "25","2018-10-08","Natasha","Krell",NA,NA,NA,NA,NA,NA,NA
 "26","2018-10-15","Aline","Jaimes-Hernandez",NA,NA,NA,NA,NA,NA,NA
