@@ -33,13 +33,14 @@ greenLeafIcon <- makeIcon(
   iconAnchorX = 0, iconAnchorY = 180
 )
 
-map <- leaflet(data = sf) %>% addTiles() %>%
+map <- leaflet(data = sf) %>%
+  addProviderTiles(providers$OpenStreetMap) %>%
   addMarkers(icon = greenLeafIcon, popup = ~paste(
     First,Last, "<br>",
     Institution, "<br>",
     City," (",Country,")","<br>",
-    "<b><a href=",Leaf_URL,">Leaf Page</a></b>","<br>",
-    "<b><a href=",Website,">Website</a></b>"
+    "<b><a href=",Leaf_URL," target='_blank'>Leaf Page</a>.</b>","<br>",
+    "<b><a href=",Website," target='_blank'>Website</a>.</b>"
     ))
 map
 #search <- addSearchFeatures(map,~c(sf$Institution,sf$Last), options = searchFeaturesOptions())
