@@ -7,9 +7,6 @@ library(leaflet.extras)
 library(htmltools)
 library(htmlwidgets)
 
-# Set Mapbox token
-Sys.setenv('MAPBOX_TOKEN' = 'pk.eyJ1IjoiYXJtdXJyYXkxODkiLCJhIjoiY2trcjFhNG4yMG1sdjJ3bnhsY3p0dnlpaiJ9.1z2hrGSZT0vA9P4gXAcezg')
-
 # Read in Data from google sheets
 
 df <- read_sheet("https://docs.google.com/spreadsheets/d/1qiFlx8GLiMoJjtfWzlzVu7km1XCnWXjWCVAhmCtI-j0/edit#gid=0")%>%
@@ -32,7 +29,7 @@ sf <- st_as_sf(locs, coords = c("Lon", "Lat"),
 # Create Leaf Icon
 greenLeafIcon <- makeIcon(
   iconUrl = "http://leafletjs.com/examples/custom-icons/leaf-green.png",
-  iconWidth = 10, iconHeight = 20,
+  iconWidth = 20, iconHeight = 40,
   iconAnchorX = 0, iconAnchorY = 180
 )
 
